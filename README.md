@@ -17,99 +17,99 @@ Restaurant:  Establishments registered on the platform to showcase and sell thei
 Admin: Refers to administrators managing the website.
 
 
-# 3 Functional Requirements
+# 2 Functional Requirements
 
-## 3.1 User Management
+## 2.1 User Management
     User registration and login.
   User profiles with order history.
 
-## 3.2 Restaurant Management
+## 2.2 Restaurant Management
 •	Restaurant registration and approval process.
 •	Menu management for adding, updating, and removing items.
 
-## 3.3 Ordering Process
+## 2.3 Ordering Process
 •	Browse and search for restaurants.
 •	View restaurant details and menu items.
 •	Add items to the cart.
 •	Checkout and payment processing.
 
- ## 3.4 Tracking and Notifications
+ ## 2.4 Tracking and Notifications
 •	Real-time order tracking.
 •	Notifications for order confirmation, dispatch, and delivery.
 
-## 3.5   Admin Features
+## 2.5   Admin Features
 •	User and restaurant management.
 •	Order tracking and management.
 •	System configuration and maintenance.
 
-# 4	 Non-Functional Requirements
-## 4.1 Performance
+# 3	 Non-Functional Requirements
+## 3.1 Performance
 •	The website should handle a concurrent user load of at least X users.
 •	Response time for critical functions should be within Y seconds.
 
-## 4.2 Security
+## 3.2 Security
 •	User data should be securely stored and transmitted.
 •	Payment transactions should be encrypted.
 
-## 4.3 Reliability
+## 3.3 Reliability
 The system should have a backup and recovery mechanism.
 
-## 4.4 Usability
+## 3.4 Usability
 The user interface should be intuitive and user-friendly.
 
-## 4.5 Compatibility
+## 3.5 Compatibility
 The website should be compatible with major web browsers.
 
 
-# 5 Problem Statement:
+# 4 Problem Statement:
 
 The current food delivery landscape faces several challenges that hinder the seamless experience of users, restaurants, and administrators. These challenges include:
 
-## 5.1. Limited Restaurant Visibility
+## 4.1. Limited Restaurant Visibility
     Users often struggle to discover a wide range of restaurants, leading to a lack of choices and variety in their food options.
 
-## 5.2 Inefficient Order Management:
+## 4.2 Inefficient Order Management:
     Restaurants find it challenging to efficiently manage incoming orders, leading to potential delays, order errors, and a suboptimal user experience.
 
-## 5.3. Complicated Order Tracking
+## 4.3. Complicated Order Tracking
     Users face difficulties in tracking their orders in real-time, resulting in uncertainty and a lack of transparency in the delivery process.
 
-## 5.4. Cumbersome Menu Management
+## 4.4. Cumbersome Menu Management
     Restaurants encounter difficulties in updating and managing their menus, causing delays in reflecting changes and promotions accurately.
 
-## 5.5. Lack of Customizatioaan
+## 4.5. Lack of Customizatioaan
     Users often desire more personalized experiences, including customizable order options and preferences, which are not adequately addressed in the current systems.
 
-## 5.6. Security Concerns
+## 4.6. Security Concerns
     Users and restaurants are concerned about the security of their personal information and payment details when using online food delivery services.
 Problem Solution:
 
 To address the aforementioned challenges, the proposed food delivery website will offer the following solutions:
  
-# 6 Problem Solution 
+# 5 Problem Solution 
 
-## 6.1. Enhanced Restaurant Visibility
+## 5.1. Enhanced Restaurant Visibility
    Implement a robust search and filtering system that allows users to discover a wide range of restaurants based on cuisine, ratings, and location.
 
-## 6.2. Real-time Order Tracking
+## 5.2. Real-time Order Tracking
     Implement a real-time order tracking system, allowing users to track the status and location of their orders from confirmation to delivery.
 
-## 6.3 Efficient Menu Management
+## 5.3 Efficient Menu Management
     Offer a user-friendly interface for restaurants to easily update and manage their menus, ensuring accurate and real-time representation of available items.
 
-## 6.4  Personalized User Experience
+## 5.4  Personalized User Experience
     Introduce features such as customizable orders, saved preferences, and personalized recommendations to enhance the overall user experience and cater to individual preferences.
 
-## 6.5  Enhanced Security Measures
+## 5.5  Enhanced Security Measures
    - Implement robust security protocols to safeguard user data and payment information, instilling confidence in both users and restaurant partners.
 
-## 6.6 Responsive Customer Support
+## 5.6 Responsive Customer Support
     Provide responsive customer support channels, including a comprehensive FAQ section and direct customer support contact, to address user queries and concerns promptly.
 
 
 
 
-# 7  Constraints
+# 6  Constraints
 The project should be developed using XYZ technology stack.
 Budget and time constraints
 
