@@ -16,30 +16,9 @@ User: Refers to anyone interacting with the food delivery website.
 Restaurant:  Establishments registered on the platform to showcase and sell their food.
 Admin: Refers to administrators managing the website.
 
-# 2 Overall Descriptions
-## 2.1 Product Perspective
-The food delivery website will operate as an independent platform, interacting with users and restaurant partners.
-
-## 2.2 Product Features
-•	User registration and authentication.
-•	Browse and search functionality for restaurants and menus.
-•	Display restaurant details, including menu items, prices, and ratings.
-•	Cart management for users to add/remove items before checkout.
-•	Order placement and payment processing.
-•	Real-time order tracking for users.
-•	Restaurant dashboard for menu management and order processing.
-•	Admin dashboard for overall system management.
-
-## 2.3 User Classes and Characteristics
-•	Guests: Users who are not registered and can only browse.
-•	Registered Users: Can browse, order, and track deliveries.
-•	Restaurants: Can manage menus and process orders.
-•	Admins: Have access to system-wide functionalities.
-
-## 2.4 Operating Environment
-The system will be web-based and accessible through standard web browsers on desktop and mobile devices.
 
 # 3 Functional Requirements
+
 ## 3.1 User Management
     User registration and login.
   User profiles with order history.
